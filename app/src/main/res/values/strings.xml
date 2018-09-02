@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string name="collectData">CollectData</string>
+    <string name="run">Run</string>
+    <string name="walk">Walk</string>
+    <string name="jog">Jog</string>
+    <string name="ml_algo_button">Run ML Algorithm</string>
+    <string name="svm_type_hint">SVM type</string>
+    <string name="kernel_type_hint">Kernel type</string>
+    <string name="gamma_hint">Gamma</string>
+    <string name="degree_hint">Degree</string>
+    <string name="parmas_button">Set Parameters</string>
+    <string name="train_button">Train</string>
+    <string name="test_button">Test</string>
+    <string name="show_results">Show Results</string>
+    <string name="plot_graph">Plot Graph</string>
+    <string name="n_fold">n_fold</string>
+    <string name="chooseSVMType">Choose SVM type</string>
+    <string name="chooseKernelType">Choose Kernel type </string>
+    <string name="record">Record</string>
+    <string name="predict">Predict</string>
+
+
+    <string-array name="svmType_array">
+        <item>C-SVC</item>
+        <item>nu-SVC</item>
+        <item>1-classSVM</item>
+        <item>epsilon-SVR</item>
+        <item>nu-SVR</item>
+    </string-array>
+
+    <string-array name="kernelType_array">
+        <item>linear</item>
+        <item>polynomial</item>
+        <item>radial basis function</item>
+        <item>sigmoid</item>
+        <item>pre-computed kernel</item>
+    </string-array>
+
+
+</resources>
